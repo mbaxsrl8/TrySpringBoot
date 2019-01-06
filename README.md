@@ -11,3 +11,5 @@
 [在Spring Boot中使用Mybatis](http://luxiaofenblog.cn/index.php/2018/11/15/%e5%9c%a8spring-boot%e4%b8%ad%e4%bd%bf%e7%94%a8mybatis/)
 
 [Spring Boot项目的单元测试](http://luxiaofenblog.cn/index.php/2018/12/15/spring-boot%e9%a1%b9%e7%9b%ae%e7%9a%84%e5%8d%95%e5%85%83%e6%b5%8b%e8%af%95/)
+
+[在Spring中管理数据库事务](http://luxiaofenblog.cn/index.php/2019/01/06/%e5%9c%a8spring%e4%b8%ad%e7%ae%a1%e7%90%86%e6%95%b0%e6%8d%ae%e5%ba%93%e4%ba%8b%e5%8a%a1/)
